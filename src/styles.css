@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+.container1{
+    background-color: aqua;;
+   height:400px;
+   color:red;
+}
+
+.container2{
+   background-color: brown;
+    height:200px;
+    width:400px;
+    color:white;
+    padding:30px;
+    margin:50px;
+}
